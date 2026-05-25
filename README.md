@@ -234,6 +234,3 @@ Open Source – Referenced from the original [SNI-Spoofing](https://github.com/p
 </div>
 
 
-
-موفق باشید! 🎉  
-اگر نیاز به تغییرات یا اضافه کردن چیز دیگری دارید، فقط بفرمایید.
