@@ -180,7 +180,7 @@ If you find this tool useful, please consider supporting the project:
 
 | Currency | Address |
 |----------|---------|
-| **USDT (TRC20)** | `TYzaxbaTnVUjTwAPpHLrL5oTQLUpEGWDWo` |
+| **Tron (TRX)** | `TUGe48TwQPr2nenzaKU1NYnxbjt4iYdUx3` |
 
 > 🙏 Your support helps us continue development and keep the tool free for everyone.
 
